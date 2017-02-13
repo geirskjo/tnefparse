@@ -1,3 +1,5 @@
+fork of koodaamo/tnefparse
+
 tnefparse - TNEF decoding and attachment extraction
 ===================================================
 
